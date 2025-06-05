@@ -11,10 +11,6 @@ let tiles = [
     {name: "pear"},
     {name: "pear"},
     {name: "pear"},
-    {name: "pear"},
-    {name: "pear"},
-    {name: "pear"},
-    {name: "pear"},
 ];
 
 var cardback = "images/cardback.png";
